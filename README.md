@@ -30,7 +30,7 @@ The Warehouse Management System (WMS) is a comprehensive solution designed to st
 - **MongoDB**: NoSQL database for flexible and scalable data storage.
 - **Mongoose**: For object modeling and interacting with MongoDB.
 
-### Usage
+## Usage
 
 - **Login**: Use your credentials to log in to the system.
 - **Manage**: Inventory: Add, update, or delete products in the inventory.
