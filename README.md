@@ -32,8 +32,8 @@ The Warehouse Management System (WMS) is a comprehensive solution designed to st
 
 ### Usage
 
-- **1- Login**: Use your credentials to log in to the system.
-- **2- Manage**: Inventory: Add, update, or delete products in the inventory.
-- **3- Create Invoices**: Generate sales or disbursement invoices as needed.
-- **4- Track Stock**: Monitor stock movements and view detailed reports.
-- **5- Manage Customers/vendors**: Add or update customer and supplier information.
+- **Login**: Use your credentials to log in to the system.
+- **Manage**: Inventory: Add, update, or delete products in the inventory.
+- **Create Invoices**: Generate sales or disbursement invoices as needed.
+- **Track Stock**: Monitor stock movements and view detailed reports.
+- **Manage Customers/vendors**: Add or update customer and supplier information.
